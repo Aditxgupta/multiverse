@@ -1,0 +1,43 @@
+# Python Data Structures Mind Map
+
+## Data Structures
+
+- Primitive Data Types
+  - int
+  - float
+  - str
+  - bool
+
+- Collections
+  - Lists
+  - Tuples
+  - Sets
+  - Dictionaries
+
+## Lists
+
+- Ordered collection
+- Mutable
+- Access elements by index
+- Example: [1, 2, 3]
+
+## Tuples
+
+- Ordered collection
+- Immutable
+- Access elements by index
+- Example: (1, 2, 3)
+
+## Sets
+
+- Unordered collection
+- Mutable
+- No duplicate elements
+- Example: {1, 2, 3}
+
+## Dictionaries
+
+- Key-value pairs
+- Mutable
+- Access elements by key
+- Example: {'key1': 'value1', 'key2': 'value2'}
